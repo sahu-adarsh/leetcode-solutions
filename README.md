@@ -42,7 +42,7 @@
 
 ## Topics
 
-<sub>Based on 19 synced problems — topics for older solutions are added as they are synced.</sub>
+<sub>Based on 19 synced problems. Topics for older solutions are added as they sync.</sub>
 
 | Topic | Problems |
 |:------|:--------:|
