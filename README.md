@@ -42,6 +42,8 @@
 
 ## Topics
 
+<sub>Based on 19 synced problems — topics for older solutions are added as they are synced.</sub>
+
 | Topic | Problems |
 |:------|:--------:|
 | Array | 6 |
