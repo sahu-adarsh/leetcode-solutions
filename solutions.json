@@ -1,5 +1,415 @@
 {
   "version": "1",
   "last_synced": "2026-05-26T15:02:20Z",
-  "problems": []
+  "problems": [
+    {
+      "id": 3408,
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "folder": "solutions/hash-table/easy/3408-count-the-number-of-special-characters-i",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-26T06:47:51Z",
+          "submission_id": "2013327345",
+          "runtime_ms": 1,
+          "memory_mb": 19.4
+        }
+      ]
+    },
+    {
+      "id": 739,
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "folder": "solutions/array/medium/0739-daily-temperatures",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-25T10:22:44Z",
+          "submission_id": "2012503747",
+          "runtime_ms": 87,
+          "memory_mb": 28.1
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/next-greater-element-i/",
+      "folder": "solutions/array/easy/0496-next-greater-element-i",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-25T10:10:05Z",
+          "submission_id": "2012493426",
+          "runtime_ms": 0,
+          "memory_mb": 19.4
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "url": "https://leetcode.com/problems/jump-game-vii/",
+      "folder": "solutions/string/medium/2001-jump-game-vii",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-25T09:27:37Z",
+          "submission_id": "2012458000",
+          "runtime_ms": 180,
+          "memory_mb": 25.0
+        }
+      ]
+    },
+    {
+      "id": 1466,
+      "title": "Jump Game V",
+      "slug": "jump-game-v",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ],
+      "url": "https://leetcode.com/problems/jump-game-v/",
+      "folder": "solutions/array/hard/1466-jump-game-v",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-25T05:14:58Z",
+          "submission_id": "2012251725",
+          "runtime_ms": 363,
+          "memory_mb": 53.3
+        }
+      ]
+    },
+    {
+      "id": 4076,
+      "title": "Number of Pairs After Increment",
+      "slug": "number-of-pairs-after-increment",
+      "difficulty": "Hard",
+      "topics": [],
+      "url": "https://leetcode.com/problems/number-of-pairs-after-increment/",
+      "folder": "solutions/uncategorized/hard/4076-number-of-pairs-after-increment",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-24T03:59:59Z",
+          "submission_id": "2011376900",
+          "runtime_ms": 15219,
+          "memory_mb": 41.7
+        }
+      ]
+    },
+    {
+      "id": 4184,
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "topics": [],
+      "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+      "folder": "solutions/uncategorized/medium/4184-minimum-operations-to-sort-a-permutation",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-24T03:36:02Z",
+          "submission_id": "2011347563",
+          "runtime_ms": 44,
+          "memory_mb": 31.4
+        }
+      ]
+    },
+    {
+      "id": 4313,
+      "title": "Password Strength",
+      "slug": "password-strength",
+      "difficulty": "Medium",
+      "topics": [],
+      "url": "https://leetcode.com/problems/password-strength/",
+      "folder": "solutions/uncategorized/medium/4313-password-strength",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-24T02:41:45Z",
+          "submission_id": "2011268168",
+          "runtime_ms": 19,
+          "memory_mb": 19.8
+        }
+      ]
+    },
+    {
+      "id": 4312,
+      "title": "Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "difficulty": "Easy",
+      "topics": [],
+      "url": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "folder": "solutions/uncategorized/easy/4312-limit-occurrences-in-sorted-array",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-24T02:33:36Z",
+          "submission_id": "2011250102",
+          "runtime_ms": 3,
+          "memory_mb": 19.3
+        }
+      ]
+    },
+    {
+      "id": 4300,
+      "title": "Minimum Operations to Make Array Modulo Alternating I",
+      "slug": "minimum-operations-to-make-array-modulo-alternating-i",
+      "difficulty": "Medium",
+      "topics": [],
+      "url": "https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/",
+      "folder": "solutions/uncategorized/medium/4300-minimum-operations-to-make-array-modulo-alternating-i",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T16:20:35Z",
+          "submission_id": "2010966927",
+          "runtime_ms": 4569,
+          "memory_mb": 19.4
+        }
+      ]
+    },
+    {
+      "id": 3977,
+      "title": "Count Non Adjacent Subsets in a Rooted Tree",
+      "slug": "count-non-adjacent-subsets-in-a-rooted-tree",
+      "difficulty": "Hard",
+      "topics": [],
+      "url": "https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/",
+      "folder": "solutions/uncategorized/hard/3977-count-non-adjacent-subsets-in-a-rooted-tree",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T15:52:27Z",
+          "submission_id": "2010937997",
+          "runtime_ms": 4421,
+          "memory_mb": 22.6
+        }
+      ]
+    },
+    {
+      "id": 4316,
+      "title": "Minimum Swaps to Move Zeros to End",
+      "slug": "minimum-swaps-to-move-zeros-to-end",
+      "difficulty": "Easy",
+      "topics": [],
+      "url": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
+      "folder": "solutions/uncategorized/easy/4316-minimum-swaps-to-move-zeros-to-end",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T14:51:38Z",
+          "submission_id": "2010835752",
+          "runtime_ms": 3,
+          "memory_mb": 19.2
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+      "folder": "solutions/hash-table/medium/0438-find-all-anagrams-in-a-string",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T11:24:14Z",
+          "submission_id": "2010692772",
+          "runtime_ms": 41,
+          "memory_mb": 19.8
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "url": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folder": "solutions/array/hard/0239-sliding-window-maximum",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T11:08:17Z",
+          "submission_id": "2010681593",
+          "runtime_ms": 188,
+          "memory_mb": 35.1
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "Hard",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "url": "https://leetcode.com/problems/minimum-window-substring/",
+      "folder": "solutions/hash-table/hard/0076-minimum-window-substring",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T10:18:03Z",
+          "submission_id": "2010644361",
+          "runtime_ms": 69,
+          "memory_mb": 19.5
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Matrix"
+      ],
+      "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folder": "solutions/array/medium/0240-search-a-2d-matrix-ii",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T08:44:32Z",
+          "submission_id": "2010575950",
+          "runtime_ms": 135,
+          "memory_mb": 25.6
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folder": "solutions/linked-list/hard/0025-reverse-nodes-in-k-group",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T06:11:53Z",
+          "submission_id": "2010459964",
+          "runtime_ms": 0,
+          "memory_mb": 20.3
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folder": "solutions/linked-list/medium/0024-swap-nodes-in-pairs",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T05:50:27Z",
+          "submission_id": "2010442261",
+          "runtime_ms": 0,
+          "memory_mb": 19.1
+        }
+      ]
+    },
+    {
+      "id": 1878,
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ],
+      "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folder": "solutions/array/easy/1878-check-if-array-is-sorted-and-rotated",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-23T04:58:30Z",
+          "submission_id": "2010404341",
+          "runtime_ms": 0,
+          "memory_mb": 19.3
+        }
+      ]
+    }
+  ]
 }
