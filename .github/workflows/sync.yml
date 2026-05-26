@@ -6,6 +6,9 @@ on:
     - cron: '0 2 * * *'   # daily at 02:00 UTC — adjust to your timezone
   workflow_dispatch:        # run manually: repo → Actions → Sync LeetCode Solutions → Run workflow
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
 
