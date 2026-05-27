@@ -410,6 +410,28 @@
           "memory_mb": 19.3
         }
       ]
+    },
+    {
+      "id": 3405,
+      "title": "Count the Number of Special Characters II",
+      "slug": "count-the-number-of-special-characters-ii",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+      "folder": "solutions/hash-table/medium/3405-count-the-number-of-special-characters-ii",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-27T02:51:54Z",
+          "submission_id": "2014098535",
+          "runtime_ms": 278,
+          "memory_mb": 21.4
+        }
+      ]
     }
   ],
   "calendar": {
@@ -505,6 +527,7 @@
     "2026-05-24": 7,
     "2026-05-25": 9,
     "2026-05-26": 3,
+    "2026-05-27": 5,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -577,9 +600,9 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 544,
+    "total": 545,
     "easy": 184,
-    "medium": 296,
+    "medium": 297,
     "hard": 64
   }
 }
