@@ -22,3 +22,5 @@ jobs:
           leetcode_session: ${{ secrets.LEETCODE_SESSION }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: sahu-adarsh
+          author_name: sahu-adarsh
+          author_email: 79298694+sahu-adarsh@users.noreply.github.com
