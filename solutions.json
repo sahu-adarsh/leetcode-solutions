@@ -432,6 +432,30 @@
           "memory_mb": 21.4
         }
       ]
+    },
+    {
+      "id": 943,
+      "title": "Sum of Subarray Minimums",
+      "slug": "sum-of-subarray-minimums",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "folder": "solutions/array/medium/0943-sum-of-subarray-minimums",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-27T07:30:06Z",
+          "submission_id": "2014325258",
+          "runtime_ms": 71,
+          "memory_mb": 24.2
+        }
+      ]
     }
   ],
   "calendar": {
@@ -527,7 +551,7 @@
     "2026-05-24": 7,
     "2026-05-25": 9,
     "2026-05-26": 3,
-    "2026-05-27": 5,
+    "2026-05-27": 9,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -600,9 +624,9 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 545,
+    "total": 546,
     "easy": 184,
-    "medium": 297,
+    "medium": 298,
     "hard": 64
   }
 }
