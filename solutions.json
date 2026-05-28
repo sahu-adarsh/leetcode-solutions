@@ -456,6 +456,29 @@
           "memory_mb": 24.2
         }
       ]
+    },
+    {
+      "id": 3376,
+      "title": "Longest Common Suffix Queries",
+      "slug": "longest-common-suffix-queries",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "url": "https://leetcode.com/problems/longest-common-suffix-queries/",
+      "folder": "solutions/array/hard/3376-longest-common-suffix-queries",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-28T08:08:04Z",
+          "submission_id": "2015278932",
+          "runtime_ms": 1032,
+          "memory_mb": 171.9
+        }
+      ]
     }
   ],
   "calendar": {
@@ -552,6 +575,7 @@
     "2026-05-25": 9,
     "2026-05-26": 3,
     "2026-05-27": 9,
+    "2026-05-28": 4,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -624,9 +648,9 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 546,
+    "total": 547,
     "easy": 184,
     "medium": 298,
-    "hard": 64
+    "hard": 65
   }
 }
