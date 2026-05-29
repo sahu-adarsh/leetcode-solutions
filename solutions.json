@@ -501,6 +501,30 @@
           "memory_mb": 19.1
         }
       ]
+    },
+    {
+      "id": 402,
+      "title": "Remove K Digits",
+      "slug": "remove-k-digits",
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/remove-k-digits/",
+      "folder": "solutions/string/medium/0402-remove-k-digits",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-29T08:55:53Z",
+          "submission_id": "2016256636",
+          "runtime_ms": 39,
+          "memory_mb": 23.3
+        }
+      ]
     }
   ],
   "calendar": {
@@ -598,7 +622,7 @@
     "2026-05-26": 3,
     "2026-05-27": 9,
     "2026-05-28": 6,
-    "2026-05-29": 6,
+    "2026-05-29": 13,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -671,9 +695,9 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 548,
+    "total": 549,
     "easy": 185,
-    "medium": 298,
+    "medium": 299,
     "hard": 65
   }
 }
