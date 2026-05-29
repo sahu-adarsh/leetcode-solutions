@@ -479,6 +479,28 @@
           "memory_mb": 171.9
         }
       ]
+    },
+    {
+      "id": 3606,
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Math"
+      ],
+      "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folder": "solutions/array/easy/3606-minimum-element-after-replacement-with-digit-sum",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-29T04:48:34Z",
+          "submission_id": "2016054508",
+          "runtime_ms": 0,
+          "memory_mb": 19.1
+        }
+      ]
     }
   ],
   "calendar": {
@@ -575,7 +597,8 @@
     "2026-05-25": 9,
     "2026-05-26": 3,
     "2026-05-27": 9,
-    "2026-05-28": 4,
+    "2026-05-28": 6,
+    "2026-05-29": 6,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -648,8 +671,8 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 547,
-    "easy": 184,
+    "total": 548,
+    "easy": 185,
     "medium": 298,
     "hard": 65
   }
