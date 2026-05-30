@@ -519,10 +519,33 @@
         {
           "language": "python3",
           "filename": "solution.py",
-          "solved_at": "2026-05-29T08:55:53Z",
-          "submission_id": "2016256636",
-          "runtime_ms": 39,
-          "memory_mb": 23.3
+          "solved_at": "2026-05-29T10:01:23Z",
+          "submission_id": "2016308816",
+          "runtime_ms": 11,
+          "memory_mb": 20.7
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "folder": "solutions/array/hard/0084-largest-rectangle-in-histogram",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-29T18:06:52Z",
+          "submission_id": "2016673591",
+          "runtime_ms": 144,
+          "memory_mb": 31.3
         }
       ]
     }
@@ -622,7 +645,7 @@
     "2026-05-26": 3,
     "2026-05-27": 9,
     "2026-05-28": 6,
-    "2026-05-29": 13,
+    "2026-05-29": 25,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,

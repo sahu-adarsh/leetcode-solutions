@@ -10,7 +10,7 @@
 
 | Language | Runtime | Memory | Solved |
 |:---------|--------:|-------:|:-------|
-| python3 | 39 ms | 23.3 MB | 2026-05-29 |
+| python3 | 11 ms | 20.7 MB | 2026-05-29 |
 ---
 
 ## Approach

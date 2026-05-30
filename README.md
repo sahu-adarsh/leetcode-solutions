@@ -32,25 +32,25 @@
 
 | # | Problem | Difficulty | Solved |
 |--:|:--------|:----------:|:------:|
+| 84 | [Largest Rectangle in Histogram](solutions/array/hard/0084-largest-rectangle-in-histogram) | Hard | 2026-05-29 |
 | 402 | [Remove K Digits](solutions/string/medium/0402-remove-k-digits) | Medium | 2026-05-29 |
 | 3606 | [Minimum Element After Replacement With Digit Sum](solutions/array/easy/3606-minimum-element-after-replacement-with-digit-sum) | Easy | 2026-05-29 |
 | 3376 | [Longest Common Suffix Queries](solutions/array/hard/3376-longest-common-suffix-queries) | Hard | 2026-05-28 |
 | 943 | [Sum of Subarray Minimums](solutions/array/medium/0943-sum-of-subarray-minimums) | Medium | 2026-05-27 |
-| 3405 | [Count the Number of Special Characters II](solutions/hash-table/medium/3405-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 |
 
 ---
 
 ## Topics
 
-<sub>Based on 24 synced problems. Topics for older solutions are added as they sync.</sub>
+<sub>Based on 25 synced problems. Topics for older solutions are added as they sync.</sub>
 
 | Topic | Problems |
 |:------|:--------:|
-| Array | 9 |
+| Array | 10 |
 | String | 7 |
 | Hash Table | 5 |
-| Stack | 4 |
-| Monotonic Stack | 4 |
+| Stack | 5 |
+| Monotonic Stack | 5 |
 | Sliding Window | 4 |
 | Dynamic Programming | 3 |
 | Linked List | 2 |
