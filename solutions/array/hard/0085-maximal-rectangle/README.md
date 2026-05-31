@@ -1,8 +1,8 @@
-# 84. Largest Rectangle in Histogram
+# 85. Maximal Rectangle
 
 **Difficulty:** Hard
-**Topics:** Array, Stack, Monotonic Stack
-**Problem:** https://leetcode.com/problems/largest-rectangle-in-histogram/
+**Topics:** Array, Dynamic Programming, Stack, Matrix, Monotonic Stack
+**Problem:** https://leetcode.com/problems/maximal-rectangle/
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Language | Runtime | Memory | Solved |
 |:---------|--------:|-------:|:-------|
-| python3 | 121 ms | 31.5 MB | 2026-05-30 |
+| python3 | 51 ms | 24.6 MB | 2026-05-30 |
 ---
 
 ## Approach

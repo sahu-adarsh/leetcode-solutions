@@ -542,10 +542,107 @@
         {
           "language": "python3",
           "filename": "solution.py",
-          "solved_at": "2026-05-29T18:06:52Z",
-          "submission_id": "2016673591",
-          "runtime_ms": 144,
-          "memory_mb": 31.3
+          "solved_at": "2026-05-30T20:17:06Z",
+          "submission_id": "2017561528",
+          "runtime_ms": 121,
+          "memory_mb": 31.5
+        }
+      ]
+    },
+    {
+      "id": 2245,
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ],
+      "url": "https://leetcode.com/problems/destroying-asteroids/",
+      "folder": "solutions/array/medium/2245-destroying-asteroids",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-31T00:48:05Z",
+          "submission_id": "2017640282",
+          "runtime_ms": 159,
+          "memory_mb": 33.9
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/trapping-rain-water/",
+      "folder": "solutions/array/hard/0042-trapping-rain-water",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-30T23:27:00Z",
+          "submission_id": "2017620856",
+          "runtime_ms": 7,
+          "memory_mb": 21.3
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Matrix",
+        "Monotonic Stack"
+      ],
+      "url": "https://leetcode.com/problems/maximal-rectangle/",
+      "folder": "solutions/array/hard/0085-maximal-rectangle",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-30T21:26:15Z",
+          "submission_id": "2017588306",
+          "runtime_ms": 51,
+          "memory_mb": 24.6
+        }
+      ]
+    },
+    {
+      "id": 3435,
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Binary Indexed Tree",
+        "Segment Tree"
+      ],
+      "url": "https://leetcode.com/problems/block-placement-queries/",
+      "folder": "solutions/array/hard/3435-block-placement-queries",
+      "submissions": [
+        {
+          "language": "python3",
+          "filename": "solution.py",
+          "solved_at": "2026-05-30T18:16:20Z",
+          "submission_id": "2017491302",
+          "runtime_ms": 6322,
+          "memory_mb": 78.6
         }
       ]
     }
@@ -646,6 +743,8 @@
     "2026-05-27": 9,
     "2026-05-28": 6,
     "2026-05-29": 25,
+    "2026-05-30": 10,
+    "2026-05-31": 7,
     "2025-08-23": 10,
     "2025-08-25": 21,
     "2025-08-30": 6,
@@ -718,9 +817,9 @@
     "2025-12-31": 3
   },
   "stats": {
-    "total": 549,
+    "total": 552,
     "easy": 185,
-    "medium": 299,
-    "hard": 65
+    "medium": 300,
+    "hard": 67
   }
 }

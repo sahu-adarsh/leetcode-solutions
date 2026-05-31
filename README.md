@@ -4,8 +4,8 @@
 
 > Auto-synced by [LeetPush](https://github.com/sahu-adarsh/leetpush)
 
-[![Solved](https://img.shields.io/badge/Solved-549-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=ffa116)](.)
-[![Streak](https://img.shields.io/badge/Streak-20%20days-FC7B03?style=for-the-badge)](.)
+[![Solved](https://img.shields.io/badge/Solved-552-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=ffa116)](.)
+[![Streak](https://img.shields.io/badge/Streak-22%20days-FC7B03?style=for-the-badge)](.)
 [![Longest](https://img.shields.io/badge/Longest-44%20days-8957E5?style=for-the-badge)](.)
 
 </div>
@@ -23,8 +23,8 @@
 | Difficulty | Solved | Distribution |
 |:-----------|:------:|:-------------|
 | ![](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | **185** | `███████░░░░░░░░░░░░░` `34%` |
-| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **299** | `███████████░░░░░░░░░` `54%` |
-| ![](https://img.shields.io/badge/-Hard-critical?style=flat-square) | **65** | `██░░░░░░░░░░░░░░░░░░` `12%` |
+| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **300** | `███████████░░░░░░░░░` `54%` |
+| ![](https://img.shields.io/badge/-Hard-critical?style=flat-square) | **67** | `██░░░░░░░░░░░░░░░░░░` `12%` |
 
 ---
 
@@ -32,46 +32,49 @@
 
 | # | Problem | Difficulty | Solved |
 |--:|:--------|:----------:|:------:|
-| 84 | [Largest Rectangle in Histogram](solutions/array/hard/0084-largest-rectangle-in-histogram) | Hard | 2026-05-29 |
-| 402 | [Remove K Digits](solutions/string/medium/0402-remove-k-digits) | Medium | 2026-05-29 |
-| 3606 | [Minimum Element After Replacement With Digit Sum](solutions/array/easy/3606-minimum-element-after-replacement-with-digit-sum) | Easy | 2026-05-29 |
-| 3376 | [Longest Common Suffix Queries](solutions/array/hard/3376-longest-common-suffix-queries) | Hard | 2026-05-28 |
-| 943 | [Sum of Subarray Minimums](solutions/array/medium/0943-sum-of-subarray-minimums) | Medium | 2026-05-27 |
+| 2245 | [Destroying Asteroids](solutions/array/medium/2245-destroying-asteroids) | Medium | 2026-05-31 |
+| 42 | [Trapping Rain Water](solutions/array/hard/0042-trapping-rain-water) | Hard | 2026-05-30 |
+| 85 | [Maximal Rectangle](solutions/array/hard/0085-maximal-rectangle) | Hard | 2026-05-30 |
+| 84 | [Largest Rectangle in Histogram](solutions/array/hard/0084-largest-rectangle-in-histogram) | Hard | 2026-05-30 |
+| 3435 | [Block Placement Queries](solutions/array/hard/3435-block-placement-queries) | Hard | 2026-05-30 |
 
 ---
 
 ## Topics
 
-<sub>Based on 25 synced problems. Topics for older solutions are added as they sync.</sub>
+<sub>Based on 29 synced problems. Topics for older solutions are added as they sync.</sub>
 
 | Topic | Problems |
 |:------|:--------:|
-| Array | 10 |
+| Array | 14 |
 | String | 7 |
+| Stack | 7 |
+| Monotonic Stack | 7 |
 | Hash Table | 5 |
-| Stack | 5 |
-| Monotonic Stack | 5 |
+| Dynamic Programming | 5 |
 | Sliding Window | 4 |
-| Dynamic Programming | 3 |
-| Linked List | 2 |
+| Sorting | 2 |
 <details>
-<summary>12 more topics</summary>
+<summary>15 more topics</summary>
 <br>
 
 | Topic | Problems |
 |:------|:--------:|
+| Binary Search | 2 |
+| Matrix | 2 |
+| Linked List | 2 |
 | Recursion | 2 |
+| Greedy | 2 |
 | Prefix Sum | 1 |
-| Sorting | 1 |
 | Queue | 1 |
 | Heap (Priority Queue) | 1 |
 | Monotonic Queue | 1 |
-| Binary Search | 1 |
 | Divide and Conquer | 1 |
-| Matrix | 1 |
 | Trie | 1 |
 | Math | 1 |
-| Greedy | 1 |
+| Two Pointers | 1 |
+| Binary Indexed Tree | 1 |
+| Segment Tree | 1 |
 
 </details>
 
