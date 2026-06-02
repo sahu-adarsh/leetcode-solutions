@@ -5,7 +5,7 @@
 > Auto-synced by [LeetPush](https://github.com/sahu-adarsh/leetpush)
 
 [![Solved](https://img.shields.io/badge/Solved-558-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=ffa116)](.)
-[![Streak](https://img.shields.io/badge/Streak-24%20days-FC7B03?style=for-the-badge)](.)
+[![Streak](https://img.shields.io/badge/Streak-44%20days-FC7B03?style=for-the-badge)](.)
 [![Longest](https://img.shields.io/badge/Longest-44%20days-8957E5?style=for-the-badge)](.)
 
 </div>
