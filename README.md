@@ -22,8 +22,8 @@
 
 | Difficulty | Solved | Distribution |
 |:-----------|:------:|:-------------|
-| ![](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | **195** | `███████░░░░░░░░░░░░░` `33%` |
-| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **322** | `███████████░░░░░░░░░` `54%` |
+| ![](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | **194** | `███████░░░░░░░░░░░░░` `33%` |
+| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **323** | `███████████░░░░░░░░░` `55%` |
 | ![](https://img.shields.io/badge/-Hard-critical?style=flat-square) | **74** | `███░░░░░░░░░░░░░░░░░` `13%` |
 
 ---
