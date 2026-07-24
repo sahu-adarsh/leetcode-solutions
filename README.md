@@ -4,7 +4,7 @@
 
 > Auto-synced by [LeetPush](https://github.com/sahu-adarsh/leetpush)
 
-[![Solved](https://img.shields.io/badge/Solved-591-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=ffa116)](.)
+[![Solved](https://img.shields.io/badge/Solved-592-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=ffa116)](.)
 [![Streak](https://img.shields.io/badge/Streak-44%20days-FC7B03?style=for-the-badge)](.)
 [![Longest](https://img.shields.io/badge/Longest-44%20days-8957E5?style=for-the-badge)](.)
 
@@ -23,8 +23,8 @@
 | Difficulty | Solved | Distribution |
 |:-----------|:------:|:-------------|
 | ![](https://img.shields.io/badge/-Easy-brightgreen?style=flat-square) | **194** | `███████░░░░░░░░░░░░░` `33%` |
-| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **323** | `███████████░░░░░░░░░` `55%` |
-| ![](https://img.shields.io/badge/-Hard-critical?style=flat-square) | **74** | `███░░░░░░░░░░░░░░░░░` `13%` |
+| ![](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | **324** | `███████████░░░░░░░░░` `55%` |
+| ![](https://img.shields.io/badge/-Hard-critical?style=flat-square) | **74** | `██░░░░░░░░░░░░░░░░░░` `12%` |
 
 ---
 
